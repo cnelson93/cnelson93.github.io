@@ -1,5 +1,5 @@
 body {
-    background: rgb(9, 9, 102);
+    background: rgb(2, 2, 61);
     color: rgb(0, 0, 0);
     padding: 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -11,7 +11,7 @@ body {
 
 /* navigation menu */
 nav {
-    background: rgb(255, 225, 0);
+    background: rgb(225, 198, 0);
    margin: 0 auto;
    margin-bottom: 20px;
     display: flex;
