@@ -22,7 +22,7 @@ var init = function (window) {
         // TODO 1 : Declare and initialize our variables
         var circle;
         var circles = [];
-        var numberOfCircles = prompt("how many circles would you like? (please don't put infinity)");
+        var numberOfCircles = prompt("how many circles would you like? (please don't put infinity!)");
 
         // TODO 2 : Create a function that draws a circle 
         function drawCircle() {
